@@ -7,3 +7,6 @@ How to use:
 (the api key will be saved on your computer on the keyapi.txt)
 - run the script
 - rename the cover.jpg to whatever you want 
+update:
+github wont let me upload the empty keyapi file, 
+so you'll have to paste your key on the keyapi.txt 
